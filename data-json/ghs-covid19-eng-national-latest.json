@@ -1,11 +1,11 @@
 [
   {
-    "date": "2020-03-21 21:10:00",
+    "date": "2020-03-21 21:15:00",
     "state": "GHA",
-    "confirmed": 0,
+    "confirmed": 2,
     "deaths": 1,
     "recovered": 0,
-    "total_confirmed": 19,
+    "total_confirmed": 21,
     "total_deaths": 1,
     "total_recovered": 0,
     "total_tests": ""
