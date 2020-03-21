@@ -48,8 +48,8 @@ COVID-19-GHANA/
 |**state**            | ISO 3166-1 alpha 3     | GHA                   |  
 |**code**             | ISO 3166-2 code        | GH-TV                 |  
 |**region**           | Name of Region         | Volta                 |  
-|**lat**              | Longitude              |  10.77978774          |  
-|**long**             | Logitude               | -0.80425784           |
+|**lat**              | Latitude              |  10.77978774          |  
+|**long**             | Longitude               | -0.80425784           |
 |**confirmed**        | New confirmed cases    | 3                     |
 |**deaths**           | New death cases        | 3                     |
 |**recovered**        | New recovery cases     | 3                     |
