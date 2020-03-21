@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2020-03-18 17:05:00",
+    "state": "GHA",
+    "confirmed": 5,
+    "deaths": 0,
+    "recovered": 0,
+    "total_confirmed": 16,
+    "total_deaths": 0,
+    "total_recovered": 0,
+    "total_tests": ""
+  }
+]
