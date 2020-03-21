@@ -55,13 +55,24 @@
     "total_tests": ""
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-20 23:59:00",
     "state": "GHA",
     "confirmed": 5,
     "deaths": 0,
     "recovered": 0,
-    "total_confirmed": 16,
+    "total_confirmed": 19,
     "total_deaths": 0,
+    "total_recovered": 0,
+    "total_tests": ""
+  },
+  {
+    "date": "2020-03-21 21:10:00",
+    "state": "GHA",
+    "confirmed": 0,
+    "deaths": 1,
+    "recovered": 0,
+    "total_confirmed": 19,
+    "total_deaths": 1,
     "total_recovered": 0,
     "total_tests": ""
   }

@@ -1,6 +1,6 @@
 [
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-AF",
     "region": "Ahafo",
@@ -14,21 +14,21 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-AH",
     "region": "Ashanti",
     "lat": 6.80412209,
     "long": -1.4566693,
     "confirmed": 0,
-    "deaths": 0,
+    "deaths": 1,
     "recovered": 0,
-    "total_confirmed": 2,
-    "total_deaths": 0,
+    "total_confirmed": 3,
+    "total_deaths": 1,
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-BO",
     "region": "Bono",
@@ -42,7 +42,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-BE",
     "region": "Bono East",
@@ -56,7 +56,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-CP",
     "region": "Central",
@@ -70,7 +70,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-EP",
     "region": "Eastern",
@@ -84,21 +84,21 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-AA",
     "region": "Greater Accra",
     "lat": 5.77826109,
     "long": 0.03939687,
-    "confirmed": 5,
+    "confirmed": 7,
     "deaths": 0,
     "recovered": 0,
-    "total_confirmed": 14,
+    "total_confirmed": 16,
     "total_deaths": 0,
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-NE",
     "region": "North East",
@@ -112,7 +112,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-NP",
     "region": "Northern",
@@ -126,7 +126,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-OT",
     "region": "Oti",
@@ -140,7 +140,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-SV",
     "region": "Savannah",
@@ -154,7 +154,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-UE",
     "region": "Upper East",
@@ -168,7 +168,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-UW",
     "region": "Upper West",
@@ -182,7 +182,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-TV",
     "region": "Volta",
@@ -196,7 +196,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-WP",
     "region": "Western",
@@ -210,7 +210,7 @@
     "total_recovered": 0
   },
   {
-    "date": "2020-03-20 17:05:00",
+    "date": "2020-03-21 21:10:00",
     "state": "GHA",
     "code": "GH-WN",
     "region": "Western North",
